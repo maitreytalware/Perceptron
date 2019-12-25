@@ -4,7 +4,7 @@
 
 Consider the feedforward neural network with the following training set:
 
-<img src="Images/training-set.png">
+<img src="Images/Training-set.png">
 
 
 Thus s(1) are s(2) and in one class, s(3) and s(4) are in another class, s(5) is in a third
